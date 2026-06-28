@@ -10,7 +10,7 @@
 
 ## 📌 About the Project
 
-The **Complaint Management System** is a full-stack web application designed to simplify the process of registering, tracking, and resolving user complaints in an organized and efficient manner.
+The ** Online Complaint Management System** is a full-stack web application designed to simplify the process of registering, tracking, and resolving user complaints in an organized and efficient manner.
 
 It provides a seamless interface for users to submit complaints and for administrators to manage and resolve them in real time.
 
