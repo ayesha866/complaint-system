@@ -60,3 +60,8 @@ It provides a seamless interface for users to submit complaints and for administ
 
 ### Agent Panel
 ![Agent](screenshots\agent-dashboard.png)
+## Documentation
+
+Project documentation can be accessed here:
+
+https://drive.google.com/drive/folders/1F1cwqbij8CcthWYT3KmYXwr4UA64qIyJ?usp=sharing
